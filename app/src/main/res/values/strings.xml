@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">News Time</string>
+
+    <!-- Headlines -->
+
+    <string name="hd_stocks">1 Risk That Might Surprise Alphabet Shareholders</string>
+    <string name="hd_bitcoin">Over $433M in Liquidations as Bitcoin, Ethereum Plunge</string>
+    <string name="hd_green_energy">Switching to Renewable Energy Could Save Trillions - Study Shows</string>
+    <string name="hd_yoga">Yoga Could Stretch your Life Span!</string>
+    <string name="hd_junk_food">Why Do Our Bodies Crave Junk Food?</string>
+    <string name="hd_chicken">Bird Flu Cases Confirmed In Suffolk and Essex</string>
+    <string name="hd_sports">Taiwan Earthquake: Badminton Players Flee as sport centre coll....</string>
+
+    <!-- When the news had been published-->
+    <string name="yesterday">Yesterday</string>
+    <string name="hours_ago">An hour Ago</string>
+    <string name="twelve_hours_ago">12 hours ago</string>
+    <string name="six_days_ago">6 days ago</string>
+    <string name="one_day_ago">1 day ago</string>
+    <string name="six_hours_ago">6 hours ago</string>
+    <string name="nine_hours_ago">9 hours ago</string>
+</resources>
